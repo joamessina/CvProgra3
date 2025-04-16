@@ -1,0 +1,50 @@
+*{
+    font-family: "Quantico", sans-serif;
+}
+
+body{
+    margin: 0 auto;
+}
+
+header{
+    border: 2px solid rgb(42, 78, 68);
+    background-color: #fcfcfc;
+    color:black
+}
+
+section{
+    border: 2px solid #00e5d4;
+    background-color: #fcfcfc;
+    color:black;
+}
+
+.profile-container{
+    margin: 0 auto;
+    text-align: center;
+    width: 300px;
+    border: 2px solid red;
+}
+.text{
+    text-align: right;
+}
+
+.profile-pic{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    float: left;
+}
+.what-i-do{
+    text-align: center;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+.what-i-do h2{
+    color: #1bddbf;
+}
+
+
+/*
+https://fonts.google.com/specimen/Quantico?categoryFilters=Feeling:%2FExpressive%2FFuturistic
+*/
